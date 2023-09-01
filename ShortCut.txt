@@ -1,0 +1,3 @@
+Shift+alt-->copy and paste marked items
+end--> end of the line
+Home-->start of the line
